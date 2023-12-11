@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.box {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.user {
+  /* Style for individual user info */
+  /* Add specific styles as needed */
+  width: 200px;
+  margin: 10px;
+  padding: 15px;
+  border: 1px solid #ccc;
+}
+  
